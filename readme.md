@@ -1,6 +1,6 @@
 # SendGrid basic API wrapper
 
-This module provides simple ways to send email through sendgrid, tailored to OpenHost Automation needs.
+A wrapper for the SenGrid v3 API that lets you send email as a Powershell command, similar to Send-MailMessage.
 
 ## Installation 
 
