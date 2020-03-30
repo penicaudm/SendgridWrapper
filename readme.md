@@ -1,6 +1,7 @@
 # SendGrid basic API wrapper
 
 A wrapper for the SendGrid v3 SendMail API that lets you send email as a Powershell command, similar to Send-MailMessage.
+This is an old script I did, which could use many many improvements. I learned a lot writing it and it saved me a great amount of time.
 
 ## Installation 
 
